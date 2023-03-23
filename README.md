@@ -8,16 +8,16 @@
  ![Alt text](img/1.PNG)
 
  # Доступ к элементу массива по индексу
- 
+
  ![Alt text](img/2.PNG)
 
  # Итерирование по массиву
- 
+
  ![Alt text](img/3.PNG)
 
  # Добавление элемента в конец массива
- 
-[label](img/4.PNG%0D) [label](img/5.PNG%0D) ![Alt text](img/6.PNG)
+
+(img/4.PNG%0D)(img/5.PNG%0D) ![Alt text](img/6.PNG)
 
 # Удаление последнего элемента массива
 
