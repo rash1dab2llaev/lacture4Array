@@ -77,8 +77,8 @@ console.log(filterArray([1, 2, 'tr', 4, 'uy']));
 
 console.log(countTrue([true, true, true, false])); */
 
-
+/* 
 function secondLargeElem(arr) {
-    return arr.sort((a, b) => { return a-b})
+    return arr.map((a) => { return Math.max(a)})
 }
-console.log(secondLargeElem([1, 4, 3, 5, 2]));
+console.log(secondLargeElem([1, 4, 3, 5, 2])); */
